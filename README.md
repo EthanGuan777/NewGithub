@@ -8,6 +8,6 @@ Our program is a program to test and give you a feed back of your age range with
 
 Code of Conduct: This helps to make our project more open, anyone from everywhere and every race can edit this document.
 
-licenses: Our license allow users to use every function except TM grant. And we use the latest version of AFL 3.0, which publish in 2002
+licenses: Our license allow users to use every function except TM grant. And we use the latest version of AFL 3.0, which publish in 2002.
 
 Group Member: Ethan Guan & Jingtao Zhao
